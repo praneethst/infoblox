@@ -1,0 +1,37 @@
+First Name,Last Name,Result,Date Completed,Overall Score,Overall Max Score,Overall Percentage Score,Time Limit,Country,Time Taken,Start Time,End Time,Email,Candidate Id,Exam Code,Exam Name,Exam Id
+Mike,Nørgaard,Pass,2021-11-12,49.0000,60,81.7%,180,AT,90,06:29,08:01,MikeMNorgaard@jourrapide.com,6186412,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Cripín,Batista,Pass,2021-11-17,51.0000,60,85.0%,180,BR,80,01:39,02:59,CripinBatistaEsquivel@superrito.com,6132550,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Niklas,Peters,Pass,2021-12-15,48.0000,60,80.0%,180,AT,142,07:53,10:15,NiklasPeters@superrito.com,6219110,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Zachary,Khan,Pass,2021-12-17,51.0000,60,85.0%,180,FR,71,13:21,14:32,ZacharyKhan@fleckens.hu,6250107,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Quennel,D'Aubigné,Pass,2021-12-18,52.0000,60,86.7%,180,SE,75,02:06,03:23,QuennelDAubigne@teleworm.us,6159321,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Evan,Dyer,Pass,2021-12-19,55.0000,60,91.7%,180,UY,93,06:53,08:27,EvanDyer@rhyta.com,6274677,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Tanguy,Batard,Pass,2022-04-04,52.0000,60,86.7%,180,IS,81,08:03,09:25,TanguyBatard@gustr.com,6413959,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Josef,Nečas,Pass,2022-04-05,50.0000,60,83.3%,180,SE,68,05:35,07:35,JosefNecas@armyspy.com,6433596,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Rebeca,Melo,Pass,2022-05-12,50.0000,60,83.3%,180,ZA,168,02:25,05:16,RebecaCarvalhoMelo@superrito.com,6288135,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Alex,Lima,Pass,2022-05-21,48.0000,60,80.0%,180,ZA,155,10:54,13:33,AlexSouzaLima@rhyta.com,7338000,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Marko,Becker,Pass,2022-05-24,48.0000,60,80.0%,180,CY,177,18:27,21:55,MarkoBecker@rhyta.com,6101057,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Gabriela,Melo,Pass,2022-05-27,53.0000,60,88.3%,180,AU,155,13:59,16:36,GabrielaBarrosMelo@jourrapide.com,6512540,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Isabella,Araujo,Pass,2022-05-28,55.0000,60,91.7%,180,IS,168,18:45,21:34,IsabellaCastroAraujo@rhyta.com,6199894,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Muhab,Botros,Pass,2022-06-05,56.0000,60,93.3%,180,CH,124,03:36,05:40,MuhabNabihBotros@armyspy.com,6302187,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Idris,Awad,Pass,2022-07-01,49.0000,60,81.7%,180,CA,176,07:24,10:24,IdrisMarzuqAwad@teleworm.us,6116874,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Patricia,Martin,Pass,2022-09-23,50.0000,60,83.3%,180,AU,85,02:20,03:46,PatriciaMMartin@armyspy.com,6286339,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Frédéric,Despins,Pass,2022-09-28,51.0000,60,85.0%,180,GB,105,12:48,14:36,FredericDespins@superrito.com,6339537,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Miguel,Smith,Pass,2022-09-28,51.0000,60,85.0%,180,CZ,73,16:46,18:00,MiguelVSmith@fleckens.hu,6578239,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Nasr,Feikens,Pass,2022-10-01,50.0000,60,83.3%,180,NO,95,00:29,02:05,NasrFeikens@superrito.com,6181011,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Gaweł,Rutkowski,Pass,2022-10-18,58.0000,60,96.7%,180,GL,87,02:25,04:08,GawelRutkowski@dayrep.com,6343776,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Madeleine,Cooper,Pass,2022-11-27,51.0000,60,85.0%,180,GB,112,19:56,21:49,MadeleineCooper@einrot.com,6662037,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Leni,Maestas,Pass,2022-12-23,57.0000,60,95.0%,180,SI,81,16:00,17:23,LeniMaestasFerrer@fleckens.hu,6427053,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Chris,Donaldson,Pass,2022-12-23,51.0000,60,85.0%,180,UY,115,10:23,12:19,ChrisDonaldson@gustr.com,6517691,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Edelira,Parra,Pass,2023-01-12,49.0000,60,81.7%,180,IT,135,07:48,10:04,EdeliraParraBarragan@rhyta.com,6975605,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Antônio,Araujo,Pass,2023-03-01,52.0000,60,86.7%,180,NO,153,19:07,21:41,AntonioRodriguesAraujo@superrito.com,6264529,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Vitoria,Pinto,Pass,2023-03-09,53.0000,60,88.3%,180,EE,141,15:34,17:56,VitoriaCostaPinto@rhyta.com,6242549,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Uriele,Endrizzi,Pass,2023-04-07,57.0000,60,95.0%,180,FI,89,05:11,06:41,UrieleEndrizzi@superrito.com,6286340,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Beata,Nowicka,Pass,2023-04-10,54.0000,60,90.0%,180,BE,123,22:30,00:38,BeataNowicka@gustr.com,6145003,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Gérard,Plourde,Pass,2023-04-13,51.0000,60,85.0%,180,UY,106,05:34,07:26,GerardPlourde@superrito.com,7086424,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Radi,Saliba,Pass,2023-04-18,53.0000,60,88.3%,180,BE,126,01:20,03:27,RadiMuyassarSaliba@teleworm.us,7079178,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Aksel,Hansen,Pass,2023-04-18,57.0000,60,95.0%,180,PL,60,03:45,04:46,AkselEHansen@gustr.com,7088091,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+David,Gonzalez,Pass,2023-04-26,52.0000,60,86.7%,180,GL,109,05:54,07:44,DavidDGonzalez@jourrapide.com,6119798,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Qiong,Hsiung,Pass,2023-05-02,53.0000,60,88.3%,180,EE,88,22:11,23:40,QiongHsiung@fleckens.hu,6267148,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Imad al Din,Bahar,Pass,2023-05-31,48.0000,60,80.0%,180,DK,153,04:52,07:26,ImadalDinSuhaylBahar@cuvox.de,6486546,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Wei,Mao,Pass,2023-06-15,50.0000,60,83.3%,180,DE,180,04:08,07:26,WeiMao@fleckens.hu,6458383,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
+Cameron,Reeves,Pass,2023-07-18,51.0000,60,85.0%,180,CY,99,12:06,13:46,CameronReeves@fleckens.hu,7324216,PR000005,CDDS: DNSSEC Operations and Troubleshooting 8.4,64207
